@@ -1,0 +1,77 @@
+html {
+  scroll-behavior: smooth;
+}
+.p-0 {
+  padding: 0px;
+}
+.m-0 {
+  margin: 0px;
+}
+.container {
+  margin: 0;
+  padding: 0px 300px;
+}
+
+/* Button */
+.btn {
+  padding: 10px;
+  background-color: #e5e7eb;
+  color: #4b5563;
+  border-radius: 6px;
+  border: none;
+  text-align: center;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.my-btn {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 15px;
+  font-weight: 600;
+  color: #fff;
+}
+.my-btn:hover {
+  cursor: pointer;
+}
+
+.card {
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  padding: 5px;
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.048),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Box Shadow */
+
+.no-shadow {
+  box-shadow: none;
+}
+.shadow-md {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Border */
+
+.no-border {
+  border: none;
+}
+
+/* Ionicons */
+
+ion-icon {
+  color: #fff;
+}
+.icon-dark {
+  color: #4b5563;
+  margin-top: 10px;
+}
+
+/* Color */
+.web-app-card .red {
+  background-color: #ef4444;
+}
