@@ -90,6 +90,10 @@ nav {
   text-decoration: none;
 }
 
+.hero-image {
+  border-radius: 100px;
+}
+
 /* Service */
 .service {
   margin-top: 100px;
