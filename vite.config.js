@@ -9,5 +9,5 @@ export default defineConfig({
     svelte(),
     tailwindcss(),
   ],
-  base:"/"
+  base:"hendraadem.github.io"
 })
