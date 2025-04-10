@@ -1,5 +1,6 @@
 {
-  "name": "my-svelte-site",
+  "name": "personal-site",
+  "homepage": "https://hendradem.github.io/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
