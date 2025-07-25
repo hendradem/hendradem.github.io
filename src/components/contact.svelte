@@ -6,9 +6,9 @@
         <p class="writing-headline text-neutral-700 text-sm">Connect with me</p>
         <div class="wrapper mt-5 text-neutral-800"> 
             <div class="contact-link">
+                <a href="https://www.linkedin.com/in/hendradem/">Linkedin</a>
+                <a href="https://medium.com/@hendradem">Medium</a>
                 <a href="https://www.github.com/hendradem">Github</a>
-                <a href="https://www.github.com/hendradem">Linkedin</a>
-                <a href="https://www.github.com/hendradem">Email</a>
             </div>
         </div>         
 </main>
