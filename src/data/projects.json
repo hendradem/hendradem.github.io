@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Butuhbantuan.com",
+        "icon": "solar:fire-bold",
+        "link": "https://butuhbantuan.com",
+        "description": "Butuhbantuan is a simple and powerful emergency assistant built to help those in need. It's easy to use on any device and now available in 15 cities across Indonesia.",
+        "tags": [
+          {
+            "label": "TypeScript",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Golang",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "NextJS",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "PWA",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Jest",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Testing Library",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Leaflet",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "OSRM",
+            "bgColor": "bg-neutral-200"
+          }
+        ]
+      },
+      {
+        "title": "MufindLabs",
+        "icon": "ion:file-tray-full",
+        "link": "https://mufindlabs.github.io",
+        "description": "Mufindlabs is an innovative tech community established in 2020 dedicated to solving social issues and providing solutions through technology. Shipped 5+ products and counting.",
+        "tags": [
+          {
+            "label": "Founder",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Community Lead",
+            "bgColor": "bg-neutral-200"
+          },
+          {
+            "label": "Product Management",
+            "bgColor": "bg-neutral-200"
+          }
+        ]
+      } 
+]

@@ -1,12 +1,12 @@
 <script> 
   const profileImage = $state('https://firebasestorage.googleapis.com/v0/b/qurban-f58a1.appspot.com/o/pic.png?alt=media&token=f07470d1-28a9-4512-996b-7c423f410bcc')
+  import Projects from "./components/projects.svelte";
 </script>
 
 
-<div class="min-h-screen w-full md:w-[50%] text-left bg-white pt-15 xs:pt-8 xs:px-5">
+<div class="min-h-screen w-full md:w-[50%] text-left bg-white pt-15 xs:pt-8 xs:px-5 mb-15">
   <div>
-    <div class="heading-section"> 
-
+    <div class="heading-section">  
         <div>
           <div class="w-30 h-30 rounded-full overflow-hidden bg-gray-200">
             <img src={profileImage} alt="Ade Mahendra" class="object-cover w-full h-full" />
@@ -21,20 +21,17 @@
         </p> 
 
         <p class="text-neutral-700 text-base md:text-[16px] xl:text-[16px] mb-5 about">
-          Connect with <a href="https://linkedin.com/in/hendradem/" class="link">LinekedIn</a>, <a href="https://medium.com/@hendradem" class="link">Medium</a>, <a href="https://github.com/hendradem" class="link">Github</a>
-        </p> 
-    
-        <div class="flex items-start gap-2 mb-5">   
-          <a href="https://github.com/hendradem" class="btn-white">
-            Collaboration 🤾🏻‍♂️
-          </a>
-          <a href="https://drive.google.com/file/d/1zVvpb3MoMfjU-hNGICJMED5r3SQ7AHe9/view?usp=sharing" target="_blank" class="btn-black">
-            Get Resume
-          </a> 
-            
-        </div> 
+          <a href="https://linkedin.com/in/hendradem/" class="link" target="_blank">LinkedIn</a>, 
+          <a href="https://medium.com/@hendradem" class="link" target="_blank">Medium</a>, 
+          <a href="https://github.com/hendradem" class="link" target="_blank">Github</a>, 
+          <a href="https://drive.google.com/file/d/1zVvpb3MoMfjU-hNGICJMED5r3SQ7AHe9/view?usp=sharing" target="_blank" class="link">Get Resume</a>
+        </p>  
     </div>
-   
+
+    <div>
+      <Projects />
+    </div>
+
   </div>
 </div>
 
