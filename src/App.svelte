@@ -16,7 +16,7 @@
         </div>
     
         <p class="text-neutral-700 text-base md:text-[16px] xl:text-[16px] mb-5 about">
-          Well known as a Full-Stack Developer, Social Activist, and a Community Leader. 3+ YoE in diverse industries, Involved in a range of social activities and projects. Currently working at <a href="https://talentvis.com/" class="link">Talentvis</a> as a Font-End Developer. 
+          Well known as a Software Engineer, Social Activist, and a Community Leader. 4+ YoE in diverse industries, Involved in a range of social activities and projects. Currently working at <a href="https://talentvis.com/" class="link">Talentvis</a> as a Font-End Developer. 
           Building <a href="https://mufindlabs.github.io/" class="link">Mufindlabs</a> to deliver solutions that drive societal impact. Interested in Software Engineering, AI/ML, Coffee and Social Activism.
         </p> 
 
@@ -35,10 +35,10 @@
   </div>
 </div>
 
-<style lang="postcss">
+<!-- <style lang="postcss">
 .about, .name {
   font-family: "JetBrains Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
 }
-</style>
+</style> -->
